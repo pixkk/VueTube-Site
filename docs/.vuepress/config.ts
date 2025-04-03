@@ -7,7 +7,7 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
     head: [["link", {rel: "icon", href: "/logo.svg"}]],
     themeConfig: {
         enableDarkMode: true,
-        repo: "https://github.com/Frontesque/VueTube",
+        repo: "https://github.com/pixkk/VueTube",
         logo: "/logo.svg",
         nav: [{text: "Download", link: "/install/"}],
 

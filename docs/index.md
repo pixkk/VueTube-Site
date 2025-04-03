@@ -4,7 +4,7 @@ heroImage: /logocircle.svg
 actionText: Install
 actionLink: /install/
 subActionText: GitHub
-subActionLink: https://github.com/Frontesque/VueTube
+subActionLink: https://github.com/pixkk/VueTube
 features:
   - title: Blazingly fast
     details: With an optimized, simple, and easy to use UI, you'll find that using VueTube feels right at home.
@@ -30,5 +30,5 @@ The next generation of on-the-go video watching: all your favorite video and mus
 
 ::: slot footer
 Released under the GPL-3.0 License.<br>
-Copyright © 2022 Frontesque
+Copyright © 2025 Frontesque
 :::
