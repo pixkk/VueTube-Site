@@ -1,7 +1,7 @@
 # Contributing to the Main Repository
 This section describes how to contribute to the main repository. If you're looking to contribute to any of our other repositories, please refer to the [Contributing to VueTube](./README.md) page.
 
-[![VueTube](https://github-readme-stats.vercel.app/api/pin/?username=VueTubeApp&repo=VueTube)](https://github.com/VueTubeApp/VueTube)
+[![VueTube](https://github-readme-stats.vercel.app/api/pin/?username=pixkk&repo=VueTube)](https://github.com/pixkk/VueTube)
 
 # Prerequisites
 - Android Studio "Arctic Fox" or Later - [Download](https://developer.android.com/studio#downloads)

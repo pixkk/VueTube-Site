@@ -45,18 +45,18 @@ The VueTube app is written in Vue.js and Capacitor. You can contribute to the ap
 You can get started by referring to the [Contributing to the Main Repository](./contributing/app.md) page. We recommend
 first-time contributors to start with this page.
 
-You can find the main repository [here](https://github.com/VueTubeApp/VueTube).
+You can find the main repository [here](https://github.com/pixkk/VueTube).
 
 ### What can I work on for the VueTube Extractor?
 
 The VueTube Extractor is written in TypeScript. Currently, it is our top priority to get the extractor up and running as
 that will allow for further development of the VueTube app. You can contribute to the extractor by referring to the wiki
-in the [VueTube Extractor repository](https://github.com/VueTubeApp/VueTube-Extractor/wiki)
+in the [VueTube Extractor repository](https://github.com/pixkk/VueTube-Extractor/wiki)
 
 Furthermore, a full checklist of features both already implemented and to be implemented can be found in
 the [VueTube Extractor issues tab](https://github.com/VueTubeApp/VueTube-Extractor/issues/59).
 
-You can find the extractor repository [here](https://github.com/VueTubeApp/VueTube-Extractor).
+You can find the extractor repository [here](https://github.com/pixkk/VueTube-Extractor).
 
 ## This project sounds awesome, but I don't know how to code. Can I still help?
 
@@ -76,10 +76,10 @@ project. Thank you for your support!
 
 **You can find us and the community on various platforms:**
 
-* Join our [Discord server](https://vuetube.app/discord) to chat with the community and the developers!
+* Join our [Discord server](https://vuetube.pixkk.com/discord) to chat with the community and the developers!
 * Follow us on [Twitter](https://twitter.com/VueTubeApp) for updates and announcements!
 * Join our [Reddit community](https://www.reddit.com/r/VueTube/) to discuss the project and share your thoughts!
 * Subscribe to our [YouTube channel](https://www.youtube.com/@VueTubeApp) for updates and longer form content!
 * Follow our [Telegram channel](https://t.me/VueTube) for updates and announcements!
-* Follow us on [GitHub](https://github.com/VueTubeApp) to stay up to date with the project!
-* And of course, you can always visit our [website](https://vuetube.app)!
+* Follow us on [GitHub](https://github.com/pixkk) to stay up to date with the project!
+* And of course, you can always visit our [website](https://vuetube.pixkk.com)!

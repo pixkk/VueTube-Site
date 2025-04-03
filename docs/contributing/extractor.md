@@ -3,7 +3,7 @@
 This section describes how to contribute to VueTube Extractor. If you're looking to contribute to any of our other
 repositories, please refer to the [Contributing to VueTube](./README.md) page.
 
-[![VueTube](https://github-readme-stats.vercel.app/api/pin/?username=VueTubeApp&repo=VueTube-Extractor)](https://github.com/VueTubeApp/VueTube-Extractor)
+[![VueTube](https://github-readme-stats.vercel.app/api/pin/?username=pixkk&repo=VueTube-Extractor)](https://github.com/pixkk/VueTube-Extractor)
 
 VueTube Extractor contains all backend code for VueTube. It is written in TypeScript, and is compiled to JavaScript as a
 NodeJS module. Although the project is still under active development and is not a part of the main VueTube app, upon
@@ -18,7 +18,7 @@ Therefore, if you wish to contribute to VueTube's backend functionalities, you s
 # Getting Started
 
 To get a more detailed setup guide, as well as a guide on how to get started with the codebase, please refer to
-the [VueTube Extractor Wiki](https://github.com/VueTubeApp/VueTube-Extractor/wiki/)
+the [VueTube Extractor Wiki](https://github.com/pixkk/VueTube-Extractor/wiki/)
 
 ## Setup
 

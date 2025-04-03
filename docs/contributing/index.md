@@ -9,21 +9,21 @@ page will help make the contributing experience as seamless as possible.
 Although VueTube started as a simple YouTube client, it has since grown into a full-fledged ecosystem of projects, each
 with their own purpose. Here's a list of all of our projects, and what they do:
 
-[![VueTube](https://github-readme-stats.vercel.app/api/pin/?username=VueTubeApp&repo=VueTube)](https://github.com/VueTubeApp/VueTube)
+[![VueTube](https://github-readme-stats.vercel.app/api/pin/?username=pixkk&repo=VueTube)](https://github.com/pixkk/VueTube)
 
 [**VueTube**](./app.md) is the repository for the main VueTube project, containing the front end codebase for the app.
 
-[![VueTube Extractor](https://github-readme-stats.vercel.app/api/pin/?username=VueTubeApp&repo=VueTube-Extractor)](https://github.com/VueTubeApp/VueTube-Extractor)
+[![VueTube Extractor](https://github-readme-stats.vercel.app/api/pin/?username=pixkk&repo=VueTube-Extractor)](https://github.com/pixkk/VueTube-Extractor)
 
 [**VueTube Extractor**](./extractor.md) is a library designed to extract data from streaming services, designed for use
 in VueTube App.
 
-[![VueTube Translator](https://github-readme-stats.vercel.app/api/pin/?username=VueTubeApp&repo=VueTube-Translator)](https://github.com/VueTubeApp/VueTube-Translator)
+[![VueTube Translator](https://github-readme-stats.vercel.app/api/pin/?username=pixkk&repo=VueTube-Translator)](https://github.com/pixkk/VueTube-Translator)
 
 **VueTube Translator** is a tool for translating fields of GitHub files like JSON or JS and export the result with the
 correct structure. It was created to help VueTube translators, but it can be used for any other purposes.
 
-[![VueTube HTTP](https://github-readme-stats.vercel.app/api/pin/?username=VueTubeApp&repo=vuetube-http)](https://github.com/VueTubeApp/vuetube-http)
+[![VueTube HTTP](https://github-readme-stats.vercel.app/api/pin/?username=pixkk&repo=vuetube-http)](https://github.com/pixkk/vuetube-http)
 
 **VueTube HTTP** is a plugin for native HTTP requests, file download/uploads, and cookie management. It's a fork of
 the [original HTTP project](https://github.com/capacitor-community/http) from Capacitor Community, with additions by the

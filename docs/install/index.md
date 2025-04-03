@@ -8,12 +8,12 @@ Before installing any version of VueTube, please make sure that your device is u
 
 ## Unstable
 A lot of bugs, but early access to features
-- Android: [Download (format: .zip // contains .apk)](https://nightly.link/VueTubeApp/VueTube/workflows/ci/main/android.zip)
-- iOS: [Download (format: .zip // contains .ipa)](https://nightly.link/VueTubeApp/VueTube/workflows/ci/main/iOS.zip)
+- Android: [Download (format: .zip // contains .apk)](https://nightly.link/pixkk/VueTube/workflows/ci/main/app-release.zip)
+- iOS: [Download (format: .zip // contains .ipa)](https://nightly.link/pixkk/VueTube/workflows/ci/main/VueTube.zip)
 
 ## Canary:
 Less bugs than unstable, slightly more features than stable
-[Download From Github](https://github.com/vuetubeapp/vuetube/releases/latest)
+[Download From Github](https://github.com/pixkk/vuetube/releases/latest)
 
 ## Stable:
 Not available until the app becomes more developed, please use Canary in the meantime!
