@@ -30,5 +30,5 @@ The next generation of on-the-go video watching: all your favorite video and mus
 
 ::: slot footer
 Released under the GPL-3.0 License.<br>
-Copyright © 2025 Frontesque
+Copyright © 2026 Frontesque | pixkk
 :::

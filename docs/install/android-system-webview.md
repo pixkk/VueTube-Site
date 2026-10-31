@@ -10,16 +10,13 @@ You can also check if your device may need WebView updates [here](/support/andro
 ## Support
 
 ### Android 7+
-Google Chrome OR Android System WebView can be used. If both are installed, Google Chrome is preferred.
-| Version     | Support     |
-| ----------- | ----------- |
-| Google Chrome Version 60+   | ✅  |
-| WebView Version 60+   | ✅  |
-| Google Chrome Version  <60   | ❌ |
-| WebView Version  <60   | ❌ |
+Google Chrome OR Android System WebView can be used. If both are installed.
 
-### Android 5.x & 6.x
 | Version     | Support     |
 | ----------- | ----------- |
-| WebView Version 60+   | ✅  |
-| WebView Version  <60   | ❌ |
+| Google Chrome Version 111+   | ✅  |
+| WebView Version 111+   | ✅  |
+| Google Chrome Version 99-111   | 🟠  |
+| WebView Version 99-111   | 🟠  |
+| Google Chrome Version  <99   | ❌ |
+| WebView Version  <99   | ❌ |

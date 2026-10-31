@@ -54,7 +54,7 @@ that will allow for further development of the VueTube app. You can contribute t
 in the [VueTube Extractor repository](https://github.com/pixkk/VueTube-Extractor/wiki)
 
 Furthermore, a full checklist of features both already implemented and to be implemented can be found in
-the [VueTube Extractor issues tab](https://github.com/VueTubeApp/VueTube-Extractor/issues/59).
+the [VueTube Extractor issues tab](https://github.com/pixkk/VueTube-Extractor/issues/59).
 
 You can find the extractor repository [here](https://github.com/pixkk/VueTube-Extractor).
 
@@ -76,10 +76,10 @@ project. Thank you for your support!
 
 **You can find us and the community on various platforms:**
 
-* Join our [Discord server](https://vuetube.pixkk.com/discord) to chat with the community and the developers!
+* Join our [Discord server](https://vuetube.org/discord) to chat with the community and the developers!
 * Follow us on [Twitter](https://twitter.com/VueTubeApp) for updates and announcements!
 * Join our [Reddit community](https://www.reddit.com/r/VueTube/) to discuss the project and share your thoughts!
 * Subscribe to our [YouTube channel](https://www.youtube.com/@VueTubeApp) for updates and longer form content!
 * Follow our [Telegram channel](https://t.me/VueTube) for updates and announcements!
 * Follow us on [GitHub](https://github.com/pixkk) to stay up to date with the project!
-* And of course, you can always visit our [website](https://vuetube.pixkk.com)!
+* And of course, you can always visit our [website](https://vuetube.org)!
